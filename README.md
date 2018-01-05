@@ -37,7 +37,7 @@ we simply make two vectors and execute a simple addition between them.
 GPU are more reliable to use vectorization, as they have an architecture made to handle
 multiple very repetitive operations (pixels on the screen, points in a 3D space to move...).
 CPU are also able to handle vectorization but are not directly made for that.
-Of course, using SIMD also increases a lot the execution time as they amount of instructions
+Of course, using SIMD also increases a lot the execution time as there amount of instructions
 to execute might be reduced a lot.
 
 ## More about AVX2
